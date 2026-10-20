@@ -1,4 +1,4 @@
-# 🩺 Clinical Text Simplifier: LLM Fine-Tuning for Patient Health Literacy
+#  Clinical Text Simplifier: LLM Fine-Tuning for Patient Health Literacy
 
 **Course:** CSI-4130/5130: Artificial Intelligence — Course Project  
 **Approach:** Model Fine-Tuning (Path 2)  
